@@ -1,6 +1,6 @@
 # dotnet.enumconverters
 
-## Json Enum Converters for special case scenarios. I find them useful with third-party NPM Typesccript pacakges during JSInterop.
+## Json Enum Converters for special case scenarios. I find them useful with third-party NPM TypeScript packages during JSInterop.
 
 ## Converters
 -  `CamelCaseEnumConverter`. Converts the first char of the Enum to lower case during Json Serialize operations. Deserialize is case-insensitive.
